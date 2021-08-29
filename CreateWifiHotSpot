@@ -1,0 +1,7 @@
+Netsh wlan set hostednetwork mode=allow ssid=<HotSpotNameOfYourOWnChoice> key=<ChooseYourOwnPassWord>
+
+
+Netstat wlan start hostednetwork
+
+Turn it of by:
+Netstat wlan stop hostednetwork
